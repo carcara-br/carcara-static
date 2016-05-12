@@ -13,10 +13,11 @@ In 2013, serve the Brazilian army through the core of preparation of reserve off
 This project uses or makes :
 
 1. Atomic SASS Styles
-2. Editor Config
-3. Babel
-4. Jade
-5. GulpJS
+2. Jekyll
+3. Jade
+4. Editor Config
+5. Autoprefixer
+6. GulpJS
    * Compile Sass 
    * Watch Files 
    * Live Reload
